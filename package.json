@@ -1,0 +1,31 @@
+{
+  "name": "ITIS-6177-week1",
+  "version": "1.0.0",
+  "description": "Node js application with express server",
+  "author": "Ramakrishna Kolipaka<rkolipak@uncc.edu>",
+  "main": "server.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruzhector/ITIS-6177-Week-01.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cruzhector/ITIS-6177-Week-01/issues"
+  },
+  "homepage": "https://github.com/cruzhector/ITIS-6177-Week-01#readme",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
